@@ -10,7 +10,7 @@ title:            'Random Thoughts'
 tagline:          'Thoughts on Programming'
 description:      'Jestan Nirojans blog ...'
 url:              http://jestan.github.io
-baseurl:          '/index.html'
+baseurl:          '/'
 paginate:         5
 
 author:
