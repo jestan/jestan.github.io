@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            'Random Thoughts' 
 tagline:          'Thoughts on Programming'
-description:      'Jestan Nirojan's Blog'
+description:      'Jestan Nirojan's blog ...'
 url:              http://jestan.github.io
 baseurl:          '/index.html'
 paginate:         5
